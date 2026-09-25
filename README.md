@@ -6,7 +6,7 @@ I build developer tools, AI systems, and the occasional piece of hardware that p
 
 **Stack:** Python · C · C++ · TypeScript · Docker · PostgreSQL
 
-## Things I shipped on purpose
+## Things I shipped
 - **[Excede](https://excede.dev)**: your dev machine in a browser tab. Code runs on your machine, your files follow you everywhere.
 - **[BRUTAL](https://brutaln.com)**: an AI that skips the politeness and just tells you.
 - **[AnnotateCode](https://annotatecode.com)**: read code, annotate it, that's it. [Open source](https://github.com/ewraj/Annotate-Code).
@@ -18,4 +18,4 @@ I build developer tools, AI systems, and the occasional piece of hardware that p
 
 ## Currently
 - Learning ML the long way ([ml](https://github.com/ewraj/ml), [Numpy-From-Scratch](https://github.com/ewraj/Numpy-From-Scratch))
-- Sending my first PR to [sktime](https://github.com/sktime/sktime/pull/11297)
+
