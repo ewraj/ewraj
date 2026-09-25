@@ -1,25 +1,21 @@
 ### Hi, I'm Raj Royal
 
-I build developer tools and AI products, and I'm learning machine learning in public. Based in Dehradun, India.
+I build developer tools, AI systems, and the occasional piece of hardware that probably didn't need to exist.
 
-<a href="https://www.linkedin.com/in/rajrxo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://x.com/rajrxo"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-<a href="https://www.instagram.com/ewraj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+[LinkedIn ↗](https://www.linkedin.com/in/rajrxo) · [X ↗](https://x.com/rajrxo) · [Instagram ↗](https://www.instagram.com/ewraj)
 
-#### Tech I work with
+**Stack:** Python · C · C++ · TypeScript · Docker · PostgreSQL
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,html,css,nodejs,postgres,docker,firebase,git" alt="Python, TypeScript, JavaScript, C, C++, HTML, CSS, Node.js, PostgreSQL, Docker, Firebase, Git">
+## Things I shipped on purpose
+- **[Excede](https://excede.dev)**: your dev machine in a browser tab. Code runs on your machine, your files follow you everywhere.
+- **[BRUTAL](https://brutaln.com)**: an AI that skips the politeness and just tells you.
+- **[AnnotateCode](https://annotatecode.com)**: read code, annotate it, that's it. [Open source](https://github.com/ewraj/Annotate-Code).
 
-#### Things I've shipped
-- **[Excede](https://excede.dev)**: your dev machine in a browser tab. A VS Code-style workspace where code runs on your own machine and your files follow you to any device. Supports Python, C/C++, JS/TS and Jupyter, with real Git built in.
-- **[BRUTAL](https://brutaln.com)**: an anti-sycophant AI partner. Direct, no-fluff reasoning for system design and hard problems.
-- **[AnnotateCode](https://annotatecode.com)**: read code, annotate it, that's it. A free, open-source tool for understanding codebases. ([source](https://github.com/ewraj/Annotate-Code))
+## Things that escaped the roadmap
+- **[Semantic-Sorter](https://github.com/ewraj/Semantic-Sorter)**: sorts your files by what they mean, fully offline
+- **[YoutubePurge](https://github.com/ewraj/YoutubePurge)**: makes YouTube show what you came for
+- **[SIXTHLAYER](https://github.com/ewraj/SIXTHLAYER)**: flex a muscle, get AI in your smart glasses
 
-#### Other projects
-- **[Semantic-Sorter](https://github.com/ewraj/Semantic-Sorter)**: a local, offline AI file organizer that sorts files by meaning using embeddings, OCR and vision models
-- **[YoutubePurge](https://github.com/ewraj/YoutubePurge)**: a semantic filter for an intent-driven YouTube feed
-- **[SIXTHLAYER](https://github.com/ewraj/SIXTHLAYER)**: an EMG-triggered ambient AR system for smart glasses
-
-#### Right now
-- Learning ML from the ground up ([ml](https://github.com/ewraj/ml), [Numpy-From-Scratch](https://github.com/ewraj/Numpy-From-Scratch))
-- Contributing to open source, starting with [sktime](https://github.com/sktime/sktime/pull/11297)
+## Currently
+- Learning ML the long way ([ml](https://github.com/ewraj/ml), [Numpy-From-Scratch](https://github.com/ewraj/Numpy-From-Scratch))
+- Sending my first PR to [sktime](https://github.com/sktime/sktime/pull/11297)
