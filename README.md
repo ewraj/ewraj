@@ -1,4 +1,4 @@
-### Hi, I'm Raj Royal
+### Hi, I'm Raj
 
 I build developer tools, AI systems, and the occasional piece of hardware that probably didn't need to exist.
 
